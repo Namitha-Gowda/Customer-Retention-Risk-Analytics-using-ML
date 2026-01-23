@@ -61,8 +61,13 @@ Integration with CRM systems
 ### 📎 Conclusion
 This project demonstrates how machine learning can be effectively applied to customer retention risk analytics, moving beyond basic churn prediction to provide actionable business insights.
 The solution is designed to reflect real-world industry challenges such as class imbalance and performance evaluation beyond accuracy.
+
+
 👤 Author
-Namitha
-Machine Learning & Generative AI Enthusiast
+Namitha N
+ Python, Machine Learning & Generative AI Enthusiast
+
+ 
 ⭐ If you like this project
 Feel free to ⭐ the repository and explore further improvements!
+Have a nice day
